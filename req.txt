@@ -1,0 +1,16 @@
+langchain-groq
+langgraph
+langchain-core
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+pypdf
+docx2txt
+langchain-text-splitters
+tiktoken
+sentence-transformers
+faiss-cpu
+tavily-python
+pydantic
+langgraph-cli
